@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+html,body{
+    min-height: 100vh;
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: $font-family-body;
+    color: $body-color;
+    background: $body-bg-alt !important;
+    margin-top: 12%;
+    @media (min-width: 1200px) { 
+        margin-top: 5%;
+    }
+   
+}
+
+img{
+    max-width: 100%;
+}

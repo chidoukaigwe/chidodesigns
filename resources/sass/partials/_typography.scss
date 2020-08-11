@@ -1,0 +1,17 @@
+h1, h2, h3, h4, h5{
+    font-family: $font-family-header;
+    color: $header-color;
+    font-weight: $font-weight-bold;
+}   
+
+a {
+    color: $anchor-color !important;
+    text-decoration: none !important;
+    &:hover{
+        text-decoration: none;
+    }
+}
+
+.blue-text{
+    color: $main-color;
+}

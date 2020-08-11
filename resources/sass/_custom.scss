@@ -1,0 +1,165 @@
+//Classes Called From JS
+.changeHeaderColor{
+    background-color: #f2f2f2 !important;
+}
+
+//Jumbotron 
+.custom-jumbotron{
+
+    background-color: $white;
+    box-shadow: 0 2px 5px 0 rgba(3,6,26,0.15);
+
+
+    @media (min-width: 1200px){
+
+        .btn{
+            display: inline;
+        }
+
+    }
+
+}
+
+.chido-designs-introduction-section{
+
+    .custom-btn{
+        background-color: #47b8e0;
+        border-color: #47b8e0;
+
+        &:hover{
+            background-color: darken( #47b8e0, 10%);
+            border-color: darken( #47b8e0, 10%);
+        }
+
+    }
+
+    //Latest Articles Blog Post Titles
+    .custom-jumbotron-link-text {
+        color: $body-color !important;
+        font-weight: $font-weight-normal;
+    }
+
+    p a{
+        color: $white !important ;
+        margin-bottom: 4%;
+    }
+
+    @media (min-width: 1200px){
+        
+        p a{
+            margin-bottom: 0;
+        }
+
+    }
+
+}
+
+.development-stack-section{
+
+    .development-stack-row{
+        display: none;
+    }
+    
+    @media (min-width: 1200px){
+
+        .development-stack-row{
+            display: flex;
+        }
+
+    }
+
+    .development-stack-section-jumbotron{
+
+        background-color: $body-bg-alt-2;
+
+    }
+
+    .server-side, .client-side{
+        max-width: 44.8%;
+        margin: 3% auto;
+    }
+
+
+    .development-stack-intro-paragraph{
+        text-align: center;
+    }
+
+    .btn{
+        margin-bottom: 0;
+    }
+
+}
+
+.featured-work-section{
+
+    .featured-work-section-header{
+        color: $main-color;
+    }
+
+}
+
+.web-development-spaces-section{
+
+    &-jumbotron{
+        background-color: $body-bg-alt-2;
+    }
+
+    &-elements{
+        text-align: center;
+        h4{
+            text-transform: uppercase;
+        }
+        p{
+            width: 90%;
+            margin: 4% auto;
+            text-align: justify;
+        }
+
+    }
+
+}
+
+.tech-skills-section-front-end{
+
+    .tech-skills-section-front-end-tech-tools{
+
+        text-align: center;
+
+        img{
+            width: 50%;
+            margin: 0 auto;
+        }
+
+        @media (min-width: 1200px){
+
+            img{
+                width: 100%;
+            }
+        
+        }
+
+    }
+
+}
+
+.cms-section-jumbotron{
+
+    &-wordpress, &-drupal{
+        display: none;
+    }
+
+    @media (min-width: 1200px){
+
+       
+        &-wordpress, &-drupal{
+            display: block;
+        }
+    }
+}
+
+.about-section{
+
+    li{
+        list-style: none;
+    }
+}
