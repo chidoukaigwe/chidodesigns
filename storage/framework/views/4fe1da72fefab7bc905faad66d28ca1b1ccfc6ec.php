@@ -1,14 +1,14 @@
 <section class="row web-development-spaces-section">
 
         <div class="col-sm-12 col-md-12">
-        
+
             <div class="jumbotron p-3 p-md-5 rounded custom-jumbotron web-development-spaces-section-jumbotron">
 
                 <h1 class="mg-btm-4 text-center"> Web Development Scope</h1>
-                <p class="text-center mg-btm-4" style="font-weight:bold;">As a full stack web developer my scope entails the following:</p>
+                <p class="text-center mg-btm-4" style="font-weight:bold;">As a full stack web developer my skills and experience expand across the following areas:</p>
 
                 <div class="row">
-                    
+
                    <div class="col-sm-6 col-md-6 web-development-spaces-section-elements">
                       <img src="images/flat-icons/web-design.png" alt="">
                       <h4 class="mt-1">Web Design</h4>
@@ -30,7 +30,7 @@
                     <div class="col-sm-6 col-md-6 web-development-spaces-section-elements">
                        <img src="images/flat-icons/search-engine.png" alt="">
                        <h4 class="mt-1">SEO</h4>
-                       <p class="mg-btm-4">A well optimised website, creates a strengthened position on Search Engines, which in turn leads to more traffic. The increased traffic places you in a better position to generate more business leads; and with more business leads on the table, your in a prime position to convert these leads into sales and therefore quietly grow your brand and achieve your financial business objectives in the process. 
+                       <p class="mg-btm-4">A well optimised website, creates endless posibilities for search engine traffic and sales. SEO practices are consistently baked into builds from as early as possible, which create strong, optimized and efficient applications, when it comes to launching your project.
                     </div>
 
                 </div>
@@ -39,4 +39,5 @@
 
         </div>
 
- </section><?php /**PATH /home/chido/Downloads/chidodesignsapp/resources/views/inc/index-page/dev-scope.blade.php ENDPATH**/ ?>
+ </section>
+<?php /**PATH /home/chido/Downloads/chidodesignsapp/resources/views/inc/index-page/dev-scope.blade.php ENDPATH**/ ?>

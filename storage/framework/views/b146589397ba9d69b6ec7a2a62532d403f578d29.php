@@ -1,7 +1,7 @@
 <section class="row featured-work-section">
 
         <div class="col-sm-12 col-md-12">
-    
+
                 <div class="jumbotron p-3 p-md-5 rounded custom-jumbotron">
 
                     <h1 class="mg-btm-4 text-center">Featured Work</h1>
@@ -10,86 +10,67 @@
 
                             <div class="col-sm-12 col-md-12">
 
-                                <strong><small>SEO Industry - Wordpress</small></strong>
-                                <h4 class="mt-1"> <a href="https://www.booklearnpass.co.uk/" target="_blank">Book Learn Pass</a></h4>
-                                <p class="mg-btm-4"> A website designed to help UK residents compare driving school prices and find a driving instructor in their local area.</p>
+                                <strong><small>Marketing & Advertising - Wordpress</small></strong>
+                                <h4 class="mt-1"> <a href="https://agencyspace.co.uk/" target="_blank">Agency Space</a></h4>
+                                <p class="mg-btm-2">Space is an independent creative company for brands ambitious to go beyond convention.</p>
 
                                 <h4 class="mt-1 featured-work-section-header">Objectives</h4>
 
-                                <ul class="mg-btm-4">
-                                    <li>Create A lightweight bespoke wordpress theme that would load and deliver fast pages, on mobile and desktop.</li>
-                                    <li>Implement a fully responsive UI, that could be integrated into the Wordpress CMS.</li>
-                                    <li>Integrate the Woocommerce plugin into the build to facilitate transactions on the website.</li>
-                                    <li>Build, a well optimized and high performance based website, using SEO Metric tools (GTMetrix & Google Page Speed) and modify the site architecture according to metric results.</li>
-                                    <li>Build a robust and flexible content creating backend using the Advanced Custom Fields Plugin; that would enable content creators to create and publish dynamic product offers.</li>
+                                <ul class="mg-btm-4" style="list-style-type:none; margin-left:-4%">
+                                    <li>Create a 7 page wordpress website, running PHP on the backend; that would serve the content and React.js on the frontend to display the content. Build an API to enable the two applications to communicate with each other.</li>
                                 </ul>
 
-                                <img src="images/case-studies/booklearnpass/booklearnpass-min.png" alt="Book Learn Pass Case Study Image" class="mg-btm-4">
+                                <small>Agency Space Homepage</small>
+                                <img src="images/case-studies/agencyspace/agencyspacefeaturedwork.png" alt="Agency Space Case Study Image" class="mg-btm-4">
 
-                                <h4 class="mt-1 featured-work-section-header">Prototyping</h4>
-
-                                <p class="mg-btm-2">
-
-                                    Book Learn Pass is on a mission to make it easier for learner drivers to make informed decisions about who they learn to drive with, while at the same time, saving money on their driving lessons.
-
-                                    Book Learn Pass is a startup with the goal of bringing together learner drivers and driving instructors, and enabling individuals looking for a driving instructor in their local area to find one.
-
-                                </p>
+                                <h4 class="mt-1 featured-work-section-header">Project Overview</h4>
 
                                 <p class="mg-btm-2">
-                                
-                                    This web design project was driven by content strategy: with the main goal to load fast paced web pages. We wanted to be able to deliver content pages (2,000 word+) that had transactional elements (woocommerce products) to mobile and desktop views, in an optimised manner. 
-                                    <br><br>
-                                    <strong>Content is king, and speed is the sword!</strong>
-                                    <br><br>
-                                    With this in mind, prototyping a quick skeleton theme for Book Learn Pass V1 was of high priority.
+                                    The Agency Space build:
+
+                                    I worked as the backend developer on this build. Developing a robust, dynamic and user friendly wordpress administration area, to enable the content creators at Agency Space, the ability to seamlessly create content.
                                 </p>
 
-                                <p class="text-center">
-
-                                    <img src="images/case-studies/booklearnpass/booklearnpass-screenshot-min.png" alt="Book Learn Pass Case Study Image">
-                                    <small>Book Learn Pass Prototype</small> 
-
+                                <p class="mg-btm-2">
+                                I worked with a frontend developer to help deliver the visual experience demanded by the client.
                                 </p>
 
-                                <h4 class="mt-1 featured-work-section-header">Styling</h4>
+                                <p class="mg-btm-4">
+                                    I built an API, that enabled the frontend application, built in React.js to communicate and consume data from the CMS database. Creating various API endpoints, for the frontend developer to interact with and build a solid consumer facing application.
+                                </p>
 
-                                <p> As Book Learn Pass is still trying to find its feet as a brand, the focus on this version was speed optimisation; with a website that would carry the logo colour pallete and plant the seeds of the Book Learn Pass brand.</p>
+                                <small>Agency Space About Page</small>
+                                <img src="images/case-studies/agencyspace/agencyspaceprojectsummary.png" alt="Agency Space Case Study Image" class="mg-btm-4">
 
-                                <p>The objective was to build a website that would carry the business objectives, attract customers to Book Learn Pass and execute a message to it's users, that being;</p>
 
-                                <p class="mg-btm-4"><strong>"Book Learn Pass is a marketplace bringing together learner drivers and driving instructors"</strong></p>
-                                
-                                <img src="images/case-studies/booklearnpass/booklearnpass-min.png" alt="Book Learn Pass Case Study Image" class="mg-btm-4">
 
-                                <h4 class="mt-1 featured-work-section-header">Wrapping Up</h4>
+                                <h4 class="mt-1 featured-work-section-header">Key Features</h4>
 
-                                <p class="mg-btm-4"> The Book Learn Pass website delivers its content in a fast and effiecient manner. The majority of the work is going into its backend to optimise the website as much as possible, and to make sure that it is Search Engine Friendly and ranks well according to its key-word search terms. The initial version of Book Learn Pass was to bring together a website that could create dynamic content from the backend, process transactions on the site, and deliver fast pace content. These objectives have been achieved!</p>
+                                <ul class="mg-btm-4">
+                                    <li>Headless Wordpress: A decoupled application, that seperates content management and content delivery, from design. </li>
+                                    <li>Custom Built API: A flexible and robust API that can scale and is easy to maintain and interact with.</li>
+                                    <li>Modern Web Design: The frontend is built with React.js, utilising all the great, edge like features, that React offers us.</li>
+                                    <li>SEO Friendly: Our API interacts with Yoast SEO plugin/api to continously deliver SEO friendly web content</li>
+                                </ul>
 
-                                <div class="row text-center">
+                                <small>Agency Space Blog Listing</small>
+                                <img src="images/case-studies/agencyspace/agencyspacekeyfeatures.png" alt="Agency Space Case Study Image" class="mg-btm-4">
 
-                                    <div class="col-sm-6 col-md-6 mg-btm-4">
+                                <h4 class="mt-1 featured-work-section-header">Project Summary</h4>
 
-                                        <img src="images/case-studies/booklearnpass/booklearnpasspagespeed-min.png" alt="Book Learn Pass Case Study Image" class="mg-btm-4">
-                                        <small>Google Page Speed Insight Desktop - <strong>15th Oct 2019</strong></small> 
+                                <p class="mg-btm-2"> The build was focused on the creative needs of the company; factoring in what they would like to be able to do and create from a CMS perspective and how it would be delivered and displayed, from an asthetic point of view. </p>
+                                <p class="mg-btm-2"> Developing a lightweight, responsive API that could communicate easily between our back and frontend applications, was paramount to the modern web design the client sought for.</p>
+                                <p class="mg-btm-2">Once the communication layer was in place, we would task ourselves with creating flexible routes to collect, process and deliver data, enabling the future application to take on new features quickly and scale.</p>
 
-                                    </div>
+                                <small>Agency Space Work</small>
+                                <img src="images/case-studies/agencyspace/agencyspaceprojectconclusion.png" alt="Agency Space Case Study Image" class="mg-btm-4">
 
-                                    <div class="col-sm-6 col-md-6 mg-btm-4">
-
-                                        <img src="images/case-studies/booklearnpass/booklearnpasspagespeed2-min.png" alt="Book Learn Pass Case Study Image">
-                                        <small>Google Page Speed Insight Mobile - <strong>15th Oct 2019</strong></small>
-
-                                    </div>
-
-                                </div>
-
-                                <div class="btn-holder text-center client-briefs-btn"> 
+                                <div class="btn-holder text-center client-briefs-btn">
                                     <a href="/clients">
                                         <button type="button" class="btn btn-lg btn-outline-secondary">View More Client Briefs</button>
                                     </a>
                                 </div>
-                                
+
                             </div>
 
                     </div> <!-- End Of Development Stack Row -->
@@ -98,4 +79,5 @@
 
         </div>
 
-</section><?php /**PATH /home/chido/Downloads/chidodesignsapp/resources/views/inc/index-page/featured.blade.php ENDPATH**/ ?>
+</section>
+<?php /**PATH /home/chido/Downloads/chidodesignsapp/resources/views/inc/index-page/featured.blade.php ENDPATH**/ ?>
