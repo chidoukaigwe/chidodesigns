@@ -26,7 +26,7 @@
 
             <div class="jumbotron p-3 p-md-5 rounded custom-jumbotron about-section-intro-jumbotron text-center">
 
-                <img src="/images/main/Chido.jpg" alt="Photo Of Chido Ukaigwe">
+                <img src="/images/main/chidodesignswebdeveloperprofilephoto1.jpg" alt="Photo Of Chido Ukaigwe">
                 <small>Plant Based - Cycling - Web Development  </small>
 
             </div>
