@@ -4,6 +4,8 @@
 
             <?php echo $__env->make('inc.work-experience-page.intro', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
 
+            <?php echo $__env->make('inc.work-experience-page.experience-bpl', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
+
             <?php echo $__env->make('inc.work-experience-page.experience-one', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
 
             <?php echo $__env->make('inc.work-experience-page.experience-two', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
