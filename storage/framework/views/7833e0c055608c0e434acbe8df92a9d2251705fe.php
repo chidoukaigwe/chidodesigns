@@ -1,29 +1,33 @@
 <div class="row">
 
         <div class="col-sm-12 col-md-12">
-        
+
             <div class="jumbotron p-3 p-md-5 rounded custom-jumbotron tech-skills-section-intro">
 
                 <h1 class="text-center mg-btm-4">Tech Skills</h1>
 
                 <p class="mg-btm-2">
-                    I am a highly motivated, self-starting full stack web developer. With a strong focus on Object Oriented Web App Development using PHP Frameworks such as Slim & Laravel, and working with pure PHP. I have strong commercial experience with PHP CMS's (Wordpress & Drupal; which extend to site building and custom theme development.                           
+                    I am a highly motivated, self-starting full stack web developer wtih a strong focus on object-oriented application programming with MVC design patterns.
                 </p>
 
-                <p class="mg-btm-2">
-                    As a Full Stack PHP Developer, my focus is on building database driven web applications. Built around the MVC (Model - View - Controller) design pattern and with an inherent focus on Object Oriented design.
+                <p>
+                    PHP is the core programming language I use to build web applications, utilising frameworks such as Laravel and Symfony for code architecture, application development and efficiency in my code. I have extensive commercial experience with popular PHP based content management systems, Wordpress and Drupal; with experience ranging from templated websites to bespoke theme/plugin development.
                 </p>
 
-                <p class="mg-btm-2">
+                <p>
+                    Javascript is my secondary language, building backend applications with the Node.js (for server side programming), utilising frameworks such as Express.js to help speed up development; whilst using frontend javascript frameworks like Vue.js and Angular.js for consumer facing interfaces.
+                </p>
 
-                    I have a keen interest in setting up and understanding development workflow patterns - Creating a workflow that embodies: <br><br> 
-                    <strong>Local Development <small>(A developer's sandbox).</small></strong><br>
-                    <strong>Staging Development</strong> <small>(which encompasses various stakeholders at this point).</small><br>
-                    <strong>Production Environment</strong> <small>(A combination of the work that happens at Local and Staging)</small>.
-                    <br><br>
-
-                    This development workflow patterns are often glued together by some sort of <strong>Version Control System</strong>, I use <strong>GIT</strong> coupled with a continous development workflow practice, that leads to smooth, automated deployment processes (Gitlab or DeployHQ).
-
+                <p>
+                    I have commercial experience as a linux systems administrator and cloud computing maintenance (<a href="https://aws.amazon.com/">AWS</a> & <a href="https://www.vultr.com/">Vultr</a> ), performing the following tasks and more:
+                        <ul>
+                            <li>Domain Hosting</li>
+                            <li>Domain Set Up & Transfers</li>
+                            <li>Securing & Optimizing Servers</li>
+                            <li>Setting Up & Configuring Unmanaged VPS's</li>
+                            <li>Website Maintenance</li>
+                            <li>Creating CI/CD Pipelines</li>
+                        </ul>
                 </p>
 
                 <p class="text-center">Below you can find a full overview of my tech stack and the development tools I use</p>
@@ -32,4 +36,5 @@
 
         </div> <!-- End Of 12 Col Div -->
 
-    </div> <!-- End Of Row --><?php /**PATH /home/chido/Downloads/chidodesignsapp/resources/views/inc/tech-skills-page/intro.blade.php ENDPATH**/ ?>
+    </div> <!-- End Of Row -->
+<?php /**PATH /home/chido/Downloads/chidodesignsapp/resources/views/inc/tech-skills-page/intro.blade.php ENDPATH**/ ?>

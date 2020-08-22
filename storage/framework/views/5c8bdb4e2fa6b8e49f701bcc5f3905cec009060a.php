@@ -1,7 +1,7 @@
 <section class="row cms-section-row">
 
         <div class="col-sm-12 col-md-12">
-        
+
             <div class="jumbotron p-3 p-md-5 rounded custom-jumbotron cms-section-jumbotron">
 
                 <h1 class="text-center mg-btm-4">Content Management Systems</h1>
@@ -11,13 +11,12 @@
                 </p>
 
                 <p class="mg-btm-2">
-                    Wordpress is one of the most popular ecosystems, independent creatives, start-up's, small businesss and large turn to, to launch, host and build a website on. 
+                    Wordpress is one of the most popular ecosystems, independent creatives, start-up's, small businesss and large turn to, to launch, host and build a website on.
                 </p>
                 <p class="mg-btm-2">
-                    Drupal is another content management system that is steadily on the rise, from its niche beginnings, organisations are readily starting to understand its depth and asset value as a first and foremost option to undertake when launching a business.
-                </p>
+                    Drupal is another indepth yet popular content management system that companies use to launch projects.
                 <p class="mg-btm-2">
-                I have strong commercial experience in both the <strong>Wordpress & Drupal</strong> ecosystems; which extend to site building and custom theme development. I can build you a site in either discipline and take a bespoke theme (designed and built by me) and integrate it into either ecosystem.
+                I have strong commercial experience in both the <strong>Wordpress & Drupal</strong> ecosystems; which extend to site building and custom theme and plugin development.
                 </p>
 
                 <div class="row">
@@ -26,16 +25,17 @@
                         <img src="images/lang-icons/wordpress-plain.svg" alt="Wordpress Logo" style="width: 30%;">
                         <p>Wordpress</p>
                     </div>
-            
+
                     <div class="col-sm-6 col-md-6 text-center cms-section-jumbotron-drupal">
                         <img src="images/lang-icons/drupal-plain.svg" alt="Drupal Logo" style="width: 30%;">
                         <p>Drupal</p>
                     </div>
 
                 </div>
-              
+
             </div> <!-- End Of Jumbotron -->
 
         </div> <!-- End Of 12 Col Div -->
 
-    </section> <!-- End Of Row --><?php /**PATH /home/chido/Downloads/chidodesignsapp/resources/views/inc/tech-skills-page/cms.blade.php ENDPATH**/ ?>
+    </section> <!-- End Of Row -->
+<?php /**PATH /home/chido/Downloads/chidodesignsapp/resources/views/inc/tech-skills-page/cms.blade.php ENDPATH**/ ?>

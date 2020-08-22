@@ -17,7 +17,7 @@
                                 <h4 class="mt-1 featured-work-section-header">Objectives</h4>
 
                                 <ul class="mg-btm-4" style="list-style-type:none; margin-left:-4%">
-                                    <li>Create a 7 page wordpress website, running PHP on the backend; that would serve the content and React.js on the frontend to display the content. Build an API to enable the two applications to communicate with each other.</li>
+                                    <li>Create a 7 page wordpress website, running PHP on the backend; that would serve the content and React.js on the frontend to render the content. Build an API to enable the two applications to communicate with each other.</li>
                                 </ul>
 
                                 <small>Agency Space Homepage</small>

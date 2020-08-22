@@ -9,7 +9,7 @@
                     <p class="text-center" style="font-weight:bold;">Core Stack Overview:</p>
 
                     <p class="development-stack-intro-paragraph" style="margin: 4% auto;">
-                        I continously expose myself to new technologies, methodologies and tools to help me excel in at my work.
+                       The core techonolgies I use and interact with for day to day web development.
                     </p>
 
                     <div class="row development-stack-row">
