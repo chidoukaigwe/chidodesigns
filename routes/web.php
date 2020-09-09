@@ -29,11 +29,11 @@ Route::get('/clients', 'PagesController@clients');
 Route::get('/dashboard', 'DashboardController@index');
 
 // Run Command php artisan route:list to see routes  === OR === Look inside Posts Controller
-Route::resource('posts', 'PostsController');
+
 
 // Auth::routes();
 
 
 
 //Disable Register Link For Website - uncomment code for production
-Auth::routes(['register' => true]);
+Auth::routes(['register' => false]);

@@ -12,7 +12,7 @@
 
                                 <strong><small>E-commerce - Wordpress</small></strong>
                                 <h4 class="mt-1"> <a href="https://www.rehangit.com/" target="_blank">Rehangit</a></h4>
-                                <p class="mg-btm-4">Rehangit is an e-commerce store whereby shoppers can find and buy discounted pre-owned 100% Authentic designer goods.</p>
+                                <p class="mg-btm-2">Rehangit is an e-commerce store whereby shoppers can find and buy discounted pre-owned 100% Authentic designer goods.</p>
 
                                 <h4 class="mt-1 featured-work-section-header">The Brief</h4>
 
@@ -25,13 +25,12 @@
 
                                 <h4 class="mt-1 featured-work-section-header">The Solution</h4>
 
-                                <p class="mg-btm-4">
+                                <p class="mg-btm-2">
                                     I built this project based off a pre-existing Wordpress Theme (Shop Isle) that utilizes Bootstrap 3. I integrated woocommerce to host product inventory, and used a plugin called WCMP to create a marketplace ecosystem that would enable their target audience to signup and sell their goods via the Rehangit platform.
                                     
-                                    <br><br>
-
+                                </p>
+                                <p class="mg-btm-2">
                                     I set a up user role system that effectively juggled multiple types of WP user roles and their capabilities across the platform. Using custom code, Advanced Access Manager (plugin) and WCFM Marketplace (plugin); I was able to create a system that granted access to specific users at particular breakpoints within the site. More importantly was their website capabilities at these breakpoints. This greatly increased the flexibility of the platform and also brought about a very interesting challenge when it came to testing the application and making sure the user role functions worked when they needed to.
-
                                 </p>
 
                             </div>
