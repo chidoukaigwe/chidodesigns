@@ -67,7 +67,7 @@
                 </p>
 
                 <p>
-                    I use Visual Studio to write code, in turn it is connected to Bitbucket/Github a web based code storage repository, this is the place I push and store all development projects. I use deployHQ as one of my tools to build and deploy code straight from my code repositories.
+                    I use Visual Studio to write code, in turn it is connected to Bitbucket/Github a web based code storage repository.
                 </p>
 
                 <p>

@@ -65,10 +65,10 @@
                 <p> <strong>CSS 3:</strong> Proficient in CSS3 and building more dynamic responsive layouts - With a focus on Mobile First design; and integrating the lastest layout design patterns with CSS Grids and Flexbox into my design process and code standards.
                 </p>
 
-                <p> <strong>Javascript:</strong> Comfortable with vanilla JS (ES6) and the popular library jQuery. I write server side code using Node.js and with the popular framework Express.js, and utilise frontend templating engines such as EJS, or the Angular framework to render views.
+                <p> <strong>Javascript:</strong> Comfortable with vanilla JS (ES6). I write server side code using Node.js coupled with Express.js framework. I employ frontend templating engines such as EJS, or full fledged Javascript frameworks like Angular and Vue.js to render views.
                 </p>
 
-                <p> <strong>CSS Frameworks:</strong> I am comfortable with building UI layouts using CSS frameworks such as (Boostrap 3/4 & Materialize). CSS Frameworks like these allow me to quickly spin up prototypes and then build on them.
+                <p> <strong>CSS Frameworks:</strong> I am comfortable with building UI layouts using CSS frameworks such as (Boostrap & Materialize CSS). Frameworks like these allow me to quickly spin up prototypes and then build on them. I have recently been styling my projects using a utility first CSS framework in 'Tailwind CSS'. This framework helps faciliate the speed of building front facing apps.
                 </p>
 
                 <p> <strong>SASS:</strong> I use the CSS preprocessor in SASS to help me write faster, modular and richer CSS.

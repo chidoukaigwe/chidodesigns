@@ -34,12 +34,6 @@
                     </div>
 
                     <div class="col-sm-4 col-md-4 mg-btm-6 tech-skills-section-front-end-tech-tools">
-                        <img src="images/lang-icons/docker-plain.svg" alt="Docker Logo">
-                        <p class="text-center mt-2">Docker</p>
-                    </div>
-
-
-                    <div class="col-sm-4 col-md-4 mg-btm-6 tech-skills-section-front-end-tech-tools">
                         <img src="images/lang-icons/nodejs-plain.svg" alt="Docker Logo">
                         <p class="text-center mt-2">Node.js</p>
                     </div>
@@ -69,7 +63,7 @@
                 <h2 class="mb-4 text-center">Back End Overview</h2>
 
                 <p>
-                    LAMP/LEMP Stack: A combination of a Linux Operating System and Apache/Nginx Web Server that go hand in hand to create a foundation in order to build the beginnings of a full stack web application. I use MYSQL as a relational database management system with this stack.
+                    LAMP/LEMP Stack: A combination of a Linux Operating System and Apache/Nginx Web Server that lay the foundation in order to build the beginnings of a full stack web application. I use MYSQL as a relational database management system with this stack.
                 </p>
 
                 <p>
@@ -79,11 +73,6 @@
                 <p>
                     The PHP Laravel framework, enables us to write faster code. Architecturally more efficient applications, along with tighter security, and more scalable code.
                 </p>
-
-                <p>
-                    Docker allows us to automate the deployment of software inside containers. It plays a vital role in my local development process, as it allows me to quickly spin up LAMP stack environments, that leads to quicker and more effective web application building, testing and prototyping.
-                </p>
-
 
             </div> <!--End OF Front End Overview Jumbotron -->
 
