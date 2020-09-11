@@ -8,8 +8,6 @@
 
             @include('inc.projects-page.shareposts-app')
 
-            @include('inc.projects-page.flashcard-app')
-         
         </section>
 
     @endsection

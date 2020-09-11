@@ -6,13 +6,12 @@
 
             <h1 class="mg-btm-4 text-center">Portfolio Projects</h1>
 
-            <p class="text-center mg-btm-2" style="font-weight:bold;">
-                I have documented personal projects, that I have built to demonstrate my skills and knowledge base as a full stack developer.
+            <p class="text-center mg-btm-2">
+               Below is a list of personal projects,  that I have built to demonstrate my skills and knowledge base as a full stack developer.
 
-                I focused on trying to build web applications that I could use on a day to day basis and would have some validity in the commercial world.
             </p>
-            <p class="text-center mg-btm-2" style="font-weight:bold;">
-                The applications showcased below provide more context as to my proficiency as a full stack developer and my current tech stack accomplishments.
+            <p class="text-center mg-btm-2">
+                The applications showcased below provide more context as to my deep interest in full stack web development, and the multitude of avenues that interest me.
             </p>
 
         </div>

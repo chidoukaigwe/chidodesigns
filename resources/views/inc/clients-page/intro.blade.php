@@ -7,7 +7,7 @@
             <h1 class="mg-btm-4 text-center">Clients</h1>
 
             <p class="text-center mg-btm-2">
-                A list of freelancing projects:
+                A list of commercial freelancing projects I have built for independent clients and small businesses:
             </p>
 
         </div>
