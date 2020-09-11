@@ -26,12 +26,6 @@ Route::post('/contact', 'PagesController@contactForm');
 Route::get('/contact-thanks', 'PagesController@contactThanks');
 Route::get('/projects', 'PagesController@projects');
 Route::get('/clients', 'PagesController@clients');
-Route::get('/dashboard', 'DashboardController@index');
-
-// Run Command php artisan route:list to see routes  === OR === Look inside Posts Controller
-
-
-// Auth::routes();
 
 
 
