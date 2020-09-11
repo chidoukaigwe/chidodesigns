@@ -10,6 +10,8 @@
 
             @include('inc.tech-skills-page.back-end')
 
+            @include('inc.tech-skills-page.devops')
+
             @include('inc.tech-skills-page.tools')
 
             @include('inc.tech-skills-page.cms')
