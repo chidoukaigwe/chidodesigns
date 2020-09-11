@@ -69,14 +69,15 @@
                 <h2 class="mb-4 text-center">Back End Overview</h2>
 
                 <p>
-                    LAMP/LEMP Stack: A combination of a Linux Operating System and Apache/Nginx Web Server that go hand in hand to create a foundation in order to build the beginnings of a full stack web application. MYSQL is a relational database management system that enables us to store data.
+                    LAMP/LEMP Stack: A combination of a Linux Operating System and Apache/Nginx Web Server that go hand in hand to create a foundation in order to build the beginnings of a full stack web application. I use MYSQL as a relational database management system with this stack.
                 </p>
 
                 <p>
-                    A database management system is vitally important to creating a fully interactive web application and PHP being a server-side language is the communication tool that interacts with both the front-end and back-end.</p>
+                    Full Stack Javascript: Running Node.js(Express.js framework) on the server side, using either Angular or Vue.js *project dependent* on the frontend. For database management and storing data, I use MongoDB for handling and processing collections of data.
+                </p>
 
                 <p>
-                    The PHP Laravel framework, enables us to write, faster, more efficient, secure, and most importantly scalable code.
+                    The PHP Laravel framework, enables us to write faster code. Architecturally more efficient applications, along with tighter security, and more scalable code.
                 </p>
 
                 <p>

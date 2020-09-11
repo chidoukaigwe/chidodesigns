@@ -10,12 +10,12 @@
 
                     <div class="col-sm-4 col-md-4 mg-btm-6 tech-skills-section-front-end-tech-tools">
                         <img src="images/lang-icons/html5-plain.svg" alt="HTML 5 Logo">
-                        <p class="text-center mt-2">HTML 5</p>
+                        <p class="text-center mt-2">HTML</p>
                     </div>
 
                     <div class="col-sm-4 col-md-4 mg-btm-6 tech-skills-section-front-end-tech-tools">
                         <img src="images/lang-icons/css3-plain.svg" alt="CSS 3 Logo">
-                        <p class="text-center mt-2">CSS 3</p>
+                        <p class="text-center mt-2">CSS</p>
                     </div>
 
                     <div class="col-sm-4 col-md-4 mg-btm-6 tech-skills-section-front-end-tech-tools">
@@ -25,7 +25,7 @@
 
                     <div class="col-sm-4 col-md-4 mg-btm-6 tech-skills-section-front-end-tech-tools">
                         <img src="images/lang-icons/bootstrap-plain.svg" alt="Bootstrap Logo">
-                        <p class="text-center mt-2">Bootstrap 3/4</p>
+                        <p class="text-center mt-2">Bootstrap</p>
                     </div>
 
                     <div class="col-sm-4 col-md-4 mg-btm-6 tech-skills-section-front-end-tech-tools">
@@ -36,6 +36,16 @@
                     <div class="col-sm-4 col-md-4 mg-btm-6 tech-skills-section-front-end-tech-tools">
                         <img src="images/lang-icons/angularjs-plain.svg" alt="Jquery Logo">
                         <p class="text-center mt-2">Angular</p>
+                    </div>
+
+                    <div class="col-sm-4 col-md-4 mg-btm-6 tech-skills-section-front-end-tech-tools">
+                        <img src="images/lang-icons/vuejs-plain.svg" alt="Jquery Logo">
+                        <p class="text-center mt-2">Vue.js</p>
+                    </div>
+
+                    <div class="col-sm-4 col-md-4 mg-btm-6 tech-skills-section-front-end-tech-tools">
+                        <img src="images/lang-icons/tailwindcss-icon.svg" alt="Jquery Logo">
+                        <p class="text-center mt-2">Tailwind CSS</p>
                     </div>
 
                 </div>

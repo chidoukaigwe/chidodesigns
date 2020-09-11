@@ -59,7 +59,7 @@
                 </p>
 
                 <p>
-                    Gulp is a streaming build system, that enables me to seamlessly run automated tasks in the background; compressing images, compiling code, automatically reloading my browser upon updates etc...
+                    Gulp enables me to seamlessly run automated tasks in the background; compressing images, compiling code, automatically reloading my browser upon updates etc...
                 </p>
 
                 <p>
@@ -67,7 +67,7 @@
                 </p>
 
                 <p>
-                    I use Visual Studio to write code, in turn it is connected to Bitbucket a web based code storage repository, this is the place I push and store all development projects. I use deployHQ to build and deploy code straight from my repos (Using BitBucket).
+                    I use Visual Studio to write code, in turn it is connected to Bitbucket/Github a web based code storage repository, this is the place I push and store all development projects. I use deployHQ as one of my tools to build and deploy code straight from my code repositories.
                 </p>
 
                 <p>
