@@ -1,27 +1,27 @@
 <section class="row work-experience-section-one-row">
 
-        <div class="col-sm-6 col-md-6">        
-        
+        <div class="col-sm-6 col-md-6">
+
             <div class="jumbotron p-3 p-md-5 rounded custom-jumbotron work-experience-section-one-jumbotron" style="background-color: #f2f2f2;">
-    
+
                 <h2 class="mb-4 text-center">Book Learn Pass</h2>
 
-                <p class="mg-btm-6 text-center"><strong><span class="blue-text">Woring Period:</span></strong> Aug 2019 - Sep 2019</p>
+                <p class="mg-btm-6 text-center"><strong><span class="blue-text">Working Period:</span></strong> Aug 2019 - Sep 2019</p>
 
                 <p class="mg-btm-6 text-center">
                     A website designed to help UK residents compare driving school prices and find a driving instructor in their local area.
                 </p>
 
                 <img src="images/case-studies/booklearnpass/booklearnpass-min.png" alt="Book Learn Pass Case Study Image" class="mg-btm-4">
-            
+
             </div>
-        
+
         </div>
 
-        <div class="col-sm-6 col-md-6">        
-    
+        <div class="col-sm-6 col-md-6">
+
             <div class="jumbotron p-3 p-md-5 rounded custom-jumbotron tech-skills-section-front-end">
-    
+
                 <h2 class="mb-2 text-center">Job Duties</h2>
 
                 <p class="blue-text text-center">Freelance Wordpress Developer</p>
@@ -37,7 +37,8 @@
                 <p class="mg-btm-4">Build a robust and flexible content creating backend using the Advanced Custom Fields Plugin; that would enable content creators to create and publish dynamic product offers.</p>
 
             </div>
-            
+
         </div>
 
-    </section><?php /**PATH /home/chido/projects/laravel-projects/chidodesignsapp/resources/views/inc/work-experience-page/experience-one.blade.php ENDPATH**/ ?>
+    </section>
+<?php /**PATH /home/chido/projects/laravel-projects/chidodesignsapp/resources/views/inc/work-experience-page/experience-one.blade.php ENDPATH**/ ?>
