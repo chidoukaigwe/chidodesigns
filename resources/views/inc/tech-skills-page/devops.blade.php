@@ -36,7 +36,7 @@
                 <h2 class="mb-4 text-center">DevOps Overview</h2>
 
                 <p>
-                    Commerical experience with AWS involves, setting up and configuring EC2 instances with a LAMP/LEMP environment. Setting up RDS instances for database management. Setting up S3 buckets to enable the storage and processing of static web app assets.
+                Commercial experience with AWS involves, setting up and configuring EC2 instances with a LAMP/LEMP environment. Setting up RDS instances for database management. Setting up S3 buckets to enable the storage and processing of static web app assets.
                 </p>
 
                 <p>

@@ -11,10 +11,10 @@
                 </p>
 
                 <p class="mg-btm-2">
-                    Wordpress is one of the most popular ecosystems, independent creatives, start-up's, small businesss and large turn to, to launch, host and build a website on.
+                    Wordpress is one of the most popular ecosystems, independent creatives, start-ups, small business's and large turn to, to launch, host and build a website on.
                 </p>
                 <p class="mg-btm-2">
-                    Drupal is another indepth yet popular content management system that companies use to launch projects.
+                    Drupal is another in-depth yet popular content management system that companies use to launch projects.
                 <p class="mg-btm-2">
                 I have strong commercial experience in both the <strong>Wordpress & Drupal</strong> ecosystems; which extend to site building and custom theme and plugin development.
                 </p>

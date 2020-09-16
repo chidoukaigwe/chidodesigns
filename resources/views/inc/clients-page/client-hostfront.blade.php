@@ -22,7 +22,7 @@
 
 
                                 <p class="mg-btm-4">
-                                    The frontend application built in Angular, communicates with the Wordpress REST Api to render data from the CMS. This application also connects with the 
+                                    The frontend application built in Angular, communicates with the Wordpress REST Api to render data from the CMS. This application also connects with the
                                     Vultr API (cloud hosting) to handle customer hosting options and accounts.
                                 </p>
 
@@ -30,13 +30,13 @@
 
                                 <h4 class="mt-1 featured-work-section-header">The Solution</h4>
 
-                                <p class="mg-btm-2">The Hostfront project is a headless cms build, with the focus of seperating the management of content from the user interface.</p>
+                                <p class="mg-btm-2">The Hostfront project is a headless cms build, with the focus of separating the management of content from the user interface.</p>
 
                                 <p class="mg-btm-2">
-                                I built the backend in PHP Wordpress, developing a custom plugin that would interact with the Wordpress REST Api; creating custom API endpoints, that would enable the frontend application to make calls and recieve data. The 'Advance Custom Fields' plugin is included within this build to help speed up the process of creating custom fields that interact with custom post types. The cms is built around global custom field modules, which creates flexibity for content creators to dynamically build out content. </p>
+                                I built the backend in PHP Wordpress, developing a custom plugin that would interact with the Wordpress REST Api; creating custom API endpoints, that would enable the frontend application to make calls and receive data. The 'Advance Custom Fields' plugin is included within this build to help speed up the process of creating custom fields that interact with custom post types. The cms is built around global custom field modules, which creates flexibility for content creators to dynamically build out content. </p>
 
                                 <p class="mg-btm-2">
-                                The frontend application is built in Angular 9, and acts as a two fold app. The first job it has, is to render the content from the CMS and display it to the end user. The second job is to consume apis and render or process their data. The choice in using Angular, was to take full advantage of a framework that has a wealth of tools and libraries built in; essentially giving us the capabilitiy to build a full scale web application.
+                                The frontend application is built in Angular 9, and acts as a two fold app. The first job it has, is to render the content from the CMS and display it to the end user. The second job is to consume apis and render or process their data. The choice in using Angular, was to take full advantage of a framework that has a wealth of tools and libraries built in; essentially giving us the capability to build a full scale web application.
                                 </p>
 
 

@@ -35,7 +35,7 @@
                         Custom taxonomy structure built from the ground up to drive content aggregation and distribution.
                     </li>
                     <li>
-                        Flexbile content creation with on the fly dynamic HTML rendering of templates.
+                    Flexible content creation with on the fly dynamic HTML rendering of templates.
                     </li>
                     <li>
                         Hybrid application architecture built into the backend. Combining the native Wordpress ecosystem with its RESTful services.

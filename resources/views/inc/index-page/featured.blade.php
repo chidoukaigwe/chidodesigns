@@ -47,7 +47,7 @@
                                 <h4 class="mt-1 featured-work-section-header">Key Features</h4>
 
                                 <ul class="mg-btm-4">
-                                    <li>Headless Wordpress: A decoupled application, that seperates content management and content delivery, from design. </li>
+                                    <li>Headless Wordpress: A decoupled application, that separates content management and content delivery, from design. </li>
                                     <li>Custom Built API: A flexible and robust API that can scale and is easy to maintain and interact with.</li>
                                     <li>Modern Web Design: The frontend is built with React.js, utilising all the great, edge like features, that React offers us.</li>
                                     <li>SEO Friendly: Our API interacts with Yoast SEO plugin/api to continously deliver SEO friendly web content</li>
@@ -58,7 +58,7 @@
 
                                 <h4 class="mt-1 featured-work-section-header">Project Summary</h4>
 
-                                <p class="mg-btm-2"> The build was focused on the creative needs of the company; factoring in what they would like to be able to do and create from a CMS perspective and how it would be delivered and displayed, from an asthetic point of view. </p>
+                                <p class="mg-btm-2"> The build was focused on the creative needs of the company; factoring in what they would like to be able to do and create from a CMS perspective and how it would be delivered and displayed, from an aesthetic point of view. </p>
                                 <p class="mg-btm-2"> Developing a lightweight, responsive API that could communicate easily between our back and frontend applications, was paramount to the modern web design the client sought for.</p>
                                 <p class="mg-btm-2">Once the communication layer was in place, we would task ourselves with creating flexible routes to collect, process and deliver data, enabling the future application to take on new features quickly and scale.</p>
 
