@@ -17,16 +17,16 @@
                                 <h4 class="mt-1 featured-work-section-header">The Brief</h4>
 
                                 <p class="mg-btm-2">
-                                  Create a salon service website, that can take customer bookings and assign them to individual hairdressers who work within the salon. The website will also have an ecommerce shop whereby customers can make purchases of products the salon sells in-store and online.
+                                  Create a salon service website, that can take customer bookings and assign them to individual hairdressers who work within the salon. The website will also have an e-commerce shop whereby customers can make purchases of products the salon sells in-store and online.
                                 </p>
 
                                 <img src="images/case-studies/jolocs/jolocsscreenshot.png" alt="Jolocs Case Study Image" class="mg-btm-4">
 
                                 <h4 class="mt-1 featured-work-section-header">The Solution</h4>
 
-                                <p class="mg-btm-2">The website is still in development and yet to launch. I teamed up with a UI/UX designer, and frontend developer, to help create the user interface needed for modern day salon websites. In the design phase we took careful consideration of the client's main target demographic, designing a user interface that resonates with her current customer base and their expectations. We have taken a mobile first apporoach in design and development, making sure that all key features of the salon are accessible via mobile devices.</p>
+                                <p class="mg-btm-2">The website is still in development and yet to launch. I teamed up with a UI/UX designer, and frontend developer, to help create the user interface needed for modern day salon websites. In the design phase we took careful consideration of the client's main target demographic, designing a user interface that resonates with her current customer base and their expectations. We have taken a mobile first approach in design and development, making sure that all key features of the salon are accessible via mobile devices.</p>
 
-                                
+
 
                             </div>
 

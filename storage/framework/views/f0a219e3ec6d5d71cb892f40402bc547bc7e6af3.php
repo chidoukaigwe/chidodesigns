@@ -32,10 +32,6 @@
     <button id="topBtn" title="Go to top">^</button>
     <!-- Scripts -->
     <script src="<?php echo e(asset('js/app.js')); ?>"></script>
-    <script src="/vendor/unisharp/laravel-ckeditor/ckeditor.js"></script>
-    <script>
-        CKEDITOR.replace( 'article-ckeditor' );
-    </script>
 </body>
 </html>
 <?php /**PATH /home/chido/projects/laravel-projects/chidodesignsapp/resources/views/layouts/app.blade.php ENDPATH**/ ?>

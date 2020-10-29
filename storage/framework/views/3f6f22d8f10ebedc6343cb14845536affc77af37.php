@@ -71,7 +71,7 @@
                 </p>
 
                 <p>
-                    The PHP Laravel framework, enables us to write faster code. Architecturally more efficient applications, along with tighter security, and more scalable code.
+                    The PHP Laravel framework enables us to write faster code. Architecturally more efficient applications, along with tighter security, and more scalable code.
                 </p>
 
             </div> <!--End OF Front End Overview Jumbotron -->

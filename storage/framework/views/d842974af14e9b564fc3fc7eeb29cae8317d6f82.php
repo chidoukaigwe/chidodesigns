@@ -7,7 +7,7 @@
                 <h1 class="text-center mg-btm-4">Tech Skills</h1>
 
                 <p class="mg-btm-2">
-                    I am a highly motivated, self-starting full stack web developer wtih a strong focus on test driven development, coupled with object-oriented application programming, following MVC design patterns.
+                    I am a highly motivated, self-starting full stack web developer with a strong focus on test driven development, coupled with object-oriented application programming, following MVC design patterns.
                 </p>
 
                 <p>

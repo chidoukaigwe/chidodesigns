@@ -63,7 +63,7 @@
                 </p>
 
                 <p>
-                   I use Composer and NPM as library package managers, that give me access to code libraries and packages which I can implement within the codebases I work in.
+                   I use Composer and NPM as library package managers, that give me access to code libraries and packages which I can implement within the codebase I work in.
                 </p>
 
                 <p>

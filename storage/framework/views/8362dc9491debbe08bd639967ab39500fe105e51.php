@@ -6,7 +6,7 @@
 
                 <h1 class="mg-btm-4 text-center"> Chido Designs</h1>
 
-                <p class="text-center mg-btm-4">The technological skillset described above, is just a subset of skills I have to offer as a Full Stack PHP Web Developer.</p>
+                <p class="text-center mg-btm-4">The technological skill-set described above, is just a subset of skills I have to offer as a Full Stack PHP Web Developer.</p>
 
                 <div class="btn-holder text-center chido-designs-welcome-section-btn">
                     <a href="/contact">
