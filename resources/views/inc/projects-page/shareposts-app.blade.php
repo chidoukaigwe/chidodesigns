@@ -8,7 +8,10 @@
 
             <strong><small>Custom PHP MVC Framework</small></strong>
             <h4 class="mt-1"> <a href="http://shareposts.chido-designs.co.uk/users/register" target="_blank">SharePost App</a></h4>
+
             <p class="mg-btm-4"> An app that allows users to share posts with each other. Simply create an account, sign in and use the app.</p>
+
+            <p class="mg-btm-4"> I deployed this custom MVC within a Docker container, to experiment and explore Docker containerization, in a potential production environment. The application is running on a <a href="http://rancher.com" target="_blank">Rancher</a>  installation within my <a href="https://www.vultr.com/" target="_blank">Vultr</a> cloud server.</p>
 
             <h4 class="mt-1 blue-text">Objectives</h4>
 
@@ -26,7 +29,9 @@
             <p class="mg-btm-4">
                 This application is built based on OOP principles; and the segmenting into three main logical components: The Model, The View and The Controller. Creating my own MVC Framework gave me a better insight into component driven development, it also enabled me to look at the popular Laravel & Symfony frameworks and understand what is happening at the core level.
                 <br><br>
-                The Application is structured similarly to the Laravel/Slim/Symfony frameworks. Separating the public folder from the core app build and enabling a bootstrap file to initialize the app. The code is easy to read and maintain and enables efficient codebase scaling.
+                The application at its core level mimics the data architecture of the Laravel or Symfony framework. A public folder *holding all app assets* with an index file initialization file. We have a bootstrap file *that sits in an app folder* that brings in all the necessary files to start up the app.
+                <br><br>
+                The code is easy to read and maintain and enables efficient codebase scaling.
             </p>
 
             <img src="images/case-studies/sharepost-app/shareposts-mvc-posts-page.png" alt="SharePost App" class="mg-btm-4">
