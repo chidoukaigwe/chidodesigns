@@ -32,7 +32,7 @@
             <img src="images/case-studies/sharepost-app/shareposts-mvc-posts-page.png" alt="SharePost App" class="mg-btm-4">
 
             <div class="btn-holder text-center chido-designs-welcome-section-btn">
-                <a href="http://shareposts.chido-designs.co.uk" target="_blank">
+                <a href="http://shareposts.chido-designs.co.uk:8080/" target="_blank">
                     <button type="button" class="btn btn-lg official-custom-btn mr-2">View Live Demo</button>
                 </a>
                 <a href="https://github.com/chidoukaigwe/sharepostsapp" target="_blank">

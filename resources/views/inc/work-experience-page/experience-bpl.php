@@ -6,7 +6,7 @@
 
                 <h2 class="mb-4 text-center">BPL Marketing Agency</h2>
 
-                <p class="mg-btm-6 text-center"><strong><span class="blue-text">Working Period:</span></strong> Nov 2019 - present day</p>
+                <p class="mg-btm-6 text-center"><strong><span class="blue-text">Working Period:</span></strong> Nov 2019 - Oct 2020</p>
 
                 <p class="mg-btm-6 text-center">
                 BPL exists to improve your marketing effectiveness across multiple channels. We see ourselves as partners in business with our clients, so we think ‘Business Partners London’ seems to suit us nicely. But just call us BPL.

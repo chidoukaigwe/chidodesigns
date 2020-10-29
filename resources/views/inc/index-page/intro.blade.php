@@ -30,7 +30,7 @@
         <div class="jumbotron p-3 p-md-5 rounded custom-jumbotron">
 
             <h2 class="mb-2 text-center">Recent Projects</h2>
-            <p class="custom-jumbotron-lead-text text-center">Current Project - Completion Date: Sep 2020</p>
+
             <ul>
                 <li class="mb-2">
                    <a href="https://companyofanimals.co.uk/" target="_blank">Company Of Animals</a>: Wordpress Multisite for a pet accessories company.
