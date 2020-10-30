@@ -10,9 +10,6 @@
                Below is a list of personal projects,  that I have built to demonstrate my skills and knowledge base as a full stack developer.
 
             </p>
-            <p class="text-center mg-btm-2">
-                The applications showcased below provide more context as to my deep interest in full stack web development, and the multitude of avenues that interest me.
-            </p>
 
         </div>
 

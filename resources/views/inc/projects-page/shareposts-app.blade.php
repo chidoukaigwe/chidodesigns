@@ -9,9 +9,9 @@
             <strong><small>Custom PHP MVC Framework</small></strong>
             <h4 class="mt-1"> <a href="http://shareposts.chido-designs.co.uk/users/register" target="_blank">SharePost App</a></h4>
 
-            <p class="mg-btm-4"> An app that allows users to share posts with each other. Simply create an account, sign in and use the app.</p>
+            <p class="mg-btm-1"> An app that allows users to share posts with each other. Simply create an account, sign in and use the app.</p>
 
-            <p class="mg-btm-4"> I deployed this custom MVC within a Docker container, to experiment and explore Docker containerization, in a potential production environment. The application is running on a <a href="http://rancher.com" target="_blank">Rancher</a>  installation within my <a href="https://www.vultr.com/" target="_blank">Vultr</a> cloud server.</p>
+            <p class="mg-btm-4"> I deployed this custom MVC within a Docker container, to experiment and explore Docker containerization, in a potential production environment. <br/> The application is running on a <a href="http://rancher.com" target="_blank">Rancher</a>  installation within my <a href="https://www.vultr.com/" target="_blank">Vultr</a> cloud server.</p>
 
             <h4 class="mt-1 blue-text">Objectives</h4>
 

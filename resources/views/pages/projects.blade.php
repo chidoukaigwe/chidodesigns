@@ -6,6 +6,8 @@
 
             @include('inc.projects-page.intro')
 
+            @include('inc.projects-page.chidodesignscms')
+
             @include('inc.projects-page.shareposts-app')
 
         </section>
