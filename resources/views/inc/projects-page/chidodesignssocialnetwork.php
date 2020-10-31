@@ -31,7 +31,7 @@
                 <br><br>
                 The application mimics a social network, in that you can create a user,  follow other users, create posts and talk to users in real time.
                 <br><br>
-                We have utilized socket.io for real time chat within this application;user authentication - both stateful with sessions and stateless with JSON Web Tokens. We ondemand search functionality from scracth.
+                We have utilized socket.io for real time chat within this application;user authentication - both stateful with sessions and stateless with JSON Web Tokens.
                 <br><br>
                 The application uses MongoDB as its database and we focus more on data collections as a way of handling and processing data.
             </p>

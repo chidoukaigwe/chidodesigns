@@ -1,4 +1,7 @@
 {
     "eslint.enable": false,
-    "standard.enable": false
+    "standard.enable": false,
+    "cSpell.ignoreWords": [
+        "wordpress"
+    ]
 }

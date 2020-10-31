@@ -6,6 +6,8 @@
 
             @include('inc.projects-page.intro')
 
+            @include('inc.projects-page.chidodesignscontacts')
+
             @include('inc.projects-page.chidodesignssocialnetwork')
 
             @include('inc.projects-page.chidodesignscms')
