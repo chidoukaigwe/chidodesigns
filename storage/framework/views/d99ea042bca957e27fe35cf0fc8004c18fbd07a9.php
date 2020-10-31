@@ -12,7 +12,7 @@
                    <div class="col-sm-6 col-md-6 web-development-spaces-section-elements">
                       <img src="images/flat-icons/web-design.png" alt="">
                       <h4 class="mt-1">Web Design</h4>
-                      <p class="mg-btm-4">Creatively cherry-picking an idea, a sketch, or a PSD and transforming it into; a static yet interactive canvas. Using technologies such as HTML and CSS to serve business objectives and create digital business assets. </p>
+                      <p class="mg-btm-4">Creatively cherry-picking an idea, a sketch, or a PSD and transforming it into; a static yet interactive canvas. Using technologies such as HTML, CSS and Javascript to serve business objectives and create digital business assets. </p>
                    </div>
 
                    <div class="col-sm-6 col-md-6 web-development-spaces-section-elements">

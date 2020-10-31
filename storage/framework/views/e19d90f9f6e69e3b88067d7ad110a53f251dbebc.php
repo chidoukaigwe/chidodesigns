@@ -97,12 +97,12 @@
                         </li>
                         <br>
                         <li>To further Company of Animals as resourceful, trusted, thought-leaders and developers in
-the training and behaviour category of the pet industry, and to make pet training
-approachable to all pet parents.</li>
+                            the training and behaviour category of the pet industry, and to make pet training
+                            approachable to all pet parents.</li>
                         <br>
                         <li>
-                        To deliver significant and measurable increases across site content engagement, and to
-demonstrate measurable ongoing traffic to online sales channels within each territory.
+                            To deliver significant and measurable increases across site content engagement, and to
+                            demonstrate measurable ongoing traffic to online sales channels within each territory.
                         </li>
                     </ul>
 
