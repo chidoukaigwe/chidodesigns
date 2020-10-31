@@ -30,9 +30,9 @@
 
                                 <div class="col-sm-6 col-md-2 offset-md-1">
 
-                                    <img src="/images/lang-icons/apache-plain.svg" alt="">
+                                    <img src="/images/lang-icons/nginx-original.svg" alt="">
 
-                                    <p class="text-center">Apache</p>
+                                    <p class="text-center">NGINX</p>
 
                                 </div>
 
