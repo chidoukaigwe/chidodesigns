@@ -5,7 +5,7 @@
         <div class="jumbotron p-3 p-md-5 rounded custom-jumbotron">
 
             <h1 class="mg-btm-2 text-center">Featured Agency Work</h1>
-            <p class="mg-btm-4 text-center">Whilst working at BPL Marketing Agency I developed two marquee projects for the agency listed below.</p>
+            <p class="mg-btm-4 text-center">Whilst working at <a href="https://www.bplmarketing.com/" target="_blank">BPL Marketing Agency</a> I developed two marquee projects for the agency listed below.</p>
             <div class="row featured-work-row">
 
                 <div class="col-sm-12 col-md-12">

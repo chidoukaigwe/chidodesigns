@@ -4,6 +4,8 @@
 
             <?php echo $__env->make('inc.projects-page.intro', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
 
+            <?php echo $__env->make('inc.projects-page.chidodesignssocialnetwork', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
+
             <?php echo $__env->make('inc.projects-page.chidodesignscms', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
 
             <?php echo $__env->make('inc.projects-page.shareposts-app', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

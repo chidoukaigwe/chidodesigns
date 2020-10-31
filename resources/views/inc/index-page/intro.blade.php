@@ -42,7 +42,7 @@
                    <a href="https://cms.chido-designs.co.uk/login" target="_blank">Chido Designs CMS</a>: A multi user Laravel / Vue.js Single Page Application. A content management system that will eventually power this website.
                 </li>
                 <li class="mb-2">
-                   <a href="https://chidodesignscomplexnodeapp.herokuapp.com/" target="_blank">Social Network Sandbox</a>: A multi user Node.js, social network. That allows users to create posts and follow each other.
+                   <a href="http://social-network.chido-designs.co.uk/" target="_blank">Social Network Sandbox</a>: A multi user Node.js, social network. That allows users to create posts and follow each other.
                 </li>
                 <li class="mb-2">
                    <a href="https://contacts.chido-designs.co.uk/register" target="_blank">Contact Management System</a>: A multi user Laravel / Vue.js Single Page Application. This app allows you to create and store contact details.
