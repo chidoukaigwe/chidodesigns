@@ -5,14 +5,14 @@
         <div class="jumbotron p-3 p-md-5 rounded custom-jumbotron">
 
             <h1 class="mg-btm-2 text-center">Featured Agency Work</h1>
-            <p class="mg-btm-4 text-center">Whilst working at <a href="https://www.bplmarketing.com/" target="_blank">BPL Marketing Agency</a> I developed two marquee projects for the agency listed below.</p>
+            <p class="mg-btm-4 text-center"> Lead PHP Developer @ <a href="https://www.bplmarketing.com/" target="_blank">BPL Marketing Agency</a> I developed two flagship projects for the agency listed below.</p>
             <div class="row featured-work-row">
 
                 <div class="col-sm-12 col-md-12">
                     <div class="mg-btm-2">
-                        <strong><small>Marketing & Advertising - Wordpress REST API</small></strong>
+                        <strong><small>Marketing & Advertising: Wordpress REST API</small></strong>
                         <br>
-                        <strong><small>Client Budget - £20k - £35k</small></strong>
+                        <strong><small>Client Budget: £20k - £35k</small></strong>
                     </div>
                     <h4 class="mt-1"> <a href="https://agencyspace.co.uk/" target="_blank">Agency Space</a></h4>
                     <p class="mg-btm-2">Space is an independent creative company for brands ambitious to go beyond convention.</p>
@@ -20,7 +20,9 @@
                     <h4 class="mt-1 featured-work-section-header">Objectives</h4>
 
                     <ul class="mg-btm-4" style="list-style-type:none; margin-left:-4%">
-                        <li>Create a 7 page wordpress website, running PHP on the backend; that would serve the content and React.js on the frontend to render the content. Build an API to enable the two applications to communicate with each other.</li>
+                        <li>
+                            Create a 7 page wordpress website. The frontend of the website would be powered by React.js, and the React app would interact with the Wordpress RESTful Api to consume and render content.
+                        </li>
                     </ul>
 
                     <small>Agency Space Homepage</small>
@@ -28,13 +30,13 @@
 
                     <h4 class="mt-1 featured-work-section-header">Project Overview</h4>
 
-                    <p class="mg-btm-2">
+                    <p class="mg-btm-4">
                         The Agency Space build:
 
                         I worked as the backend developer on this build. Developing a robust, dynamic and user friendly wordpress administration area, to enable the content creators at Agency Space, the ability to seamlessly create content.
                     </p>
 
-                    <p class="mg-btm-2">
+                    <p class="mg-btm-4">
                         I worked with a frontend developer to help deliver the visual experience demanded by the client.
                     </p>
 
@@ -61,9 +63,9 @@
 
                     <h4 class="mt-1 featured-work-section-header">Project Summary</h4>
 
-                    <p class="mg-btm-2"> The build was focused on the creative needs of the company; factoring in what they would like to be able to do and create from a CMS perspective and how it would be delivered and displayed, from an aesthetic point of view. </p>
-                    <p class="mg-btm-2"> Developing a lightweight, responsive API that could communicate easily between our back and frontend applications, was paramount to the modern web design the client sought for.</p>
-                    <p class="mg-btm-2">Once the communication layer was in place, we would task ourselves with creating flexible routes to collect, process and deliver data, enabling the future application to take on new features quickly and scale.</p>
+                    <p class="mg-btm-4"> The build was focused on the creative needs of the company; factoring in what they would like to be able to do and create from a content management perspective and how it would be delivered and displayed, from an aesthetic point of view. </p>
+                    <p class="mg-btm-4"> Developing a lightweight, responsive API that could communicate easily between our back and frontend applications, was paramount to the modern web design the client sought for.</p>
+                    <p class="mg-btm-4">Once the communication layer was in place, we would task ourselves with creating flexible routes to collect, process and deliver data, enabling the future application to take on new features quickly and scale.</p>
 
                     <small>Agency Space Work</small>
                     <img src="images/case-studies/agencyspace/agencyspaceprojectconclusion.png" alt="Agency Space Case Study Image" class="mg-btm-4">
@@ -79,9 +81,9 @@
                 <div class="col-sm-12 col-md-12">
 
                     <div class="mg-btm-2">
-                        <strong><small>Consumer Goods - Wordpress / Wordpress REST API</small></strong>
+                        <strong><small>Consumer Goods: Wordpress / Wordpress REST API</small></strong>
                         <br>
-                        <strong><small>Client Budget - £80k - £100k</small></strong>
+                        <strong><small>Client Budget: £80k - £100k</small></strong>
                     </div>
 
                     <h4 class="mt-1"> <a href="https://companyofanimals.co.uk/" target="_blank">Company Of Animals</a></h4>
@@ -90,6 +92,10 @@
                     <h4 class="mt-1 featured-work-section-header">Objectives</h4>
 
                     <ul class="mg-btm-4" style="list-style-type:none; margin-left:-4%">
+                        <li>
+                            To rebuild and rebrand the Company of Animals online presence and website.
+                        </li>
+                        <br>
                         <li>To further Company of Animals as resourceful, trusted, thought-leaders and developers in
 the training and behaviour category of the pet industry, and to make pet training
 approachable to all pet parents.</li>
@@ -108,21 +114,20 @@ demonstrate measurable ongoing traffic to online sales channels within each terr
                     <p class="mg-btm-2">
                         <strong>The Company Of Animals build:</strong>
                         <br>
-                        I worked as the lead backend developer on this build. Developing a bespoke Object Oriented Wordpress web application, with ecommerce and multisite capabilities.
+                        I worked as the lead backend developer on this build. Developing a bespoke object oriented Wordpress web application, with ecommerce and multisite capabilities.
                     </p>
-                    <p class="mg-btm-2">
+                    <p class="mg-btm-4">
                         The Wordpress administration area was robust, dynamic and user friendly; that enabled the Company Of Animals content editors to seamlessly create various types of content.
                     </p>
 
                     <p class="mg-btm-4">
-                        I built a hybrid Wordpress application, that combined the Wordpress native capabilities with its RESTful API features.
-                        <br>
-                        Meaning, that sections of the Company Of Animals application, interchange between API calls and custom Worpdress functionality.
-                        <br>
+                        I built a hybrid Wordpress application, that combined the Wordpress native capabilities with its RESTful API features. Meaning that sections of the Company Of Animals application, interchange between API calls and custom Wordpress functionality.
+                    </p>
+                    <p class="mg-btm-4">
                         I took the most important client feature requests and mapped scalable solutions that would enable flexible codebase growth and functionality.
                     </p>
 
-                    <p class="mg-btm-2">
+                    <p class="mg-btm-4">
                         I worked with a frontend developer to help deliver the visual experience demanded by the client.
                     </p>
 
