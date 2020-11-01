@@ -37,14 +37,16 @@
 
                 <p>
                 Commercial experience with AWS involves, setting up and configuring EC2 instances with a LAMP/LEMP environment. Setting up RDS instances for database management. Setting up S3 buckets to enable the storage and processing of static web app assets.
+                <br>
+                I have also utilized AWS services such as CloudWatch and CloudFormation, for monitoring and optimizing my AWS EC2 instances.
                 </p>
 
                 <p>
-                    Docker allows me to automate an initial app build process. It plays a vital role in my local development workflow, allowing me to quickly spin up containerised environments for testing and prototyping of applications.
+                    Docker allows me to automate an initial app build process. It plays a vital role in my local development workflow, allowing me to quickly spin up containerized environments for testing and prototyping of applications.
                 </p>
 
                 <p>
-                    Linux systems administration, operating on Ubuntu v14+ - v20. Here is a list of the few operations I perform: Administering servers with updates. Installing and configuring Security packages and firewalls (UFW) is a basic example. Writing bash scripts to run operations on the server (example, would be automating CRON JOBS),
+                    Linux systems administration, operating on Ubuntu v14+ - v20. Here is a list of the few operations I perform: Administering servers with updates. Installing and configuring Security packages and firewalls (UFW) is a basic example. Writing bash scripts to run operations on the server (example, would be automating CRON JOBS), and much more.
                 </p>
 
             </div>

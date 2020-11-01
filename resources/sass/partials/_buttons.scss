@@ -1,10 +1,14 @@
-//Remove Bootstrap Outline 
-.btn:focus, .btn:active:focus, .btn.active:focus{
-    outline:none;
-    box-shadow:none;
+//Remove Bootstrap Outline
+.btn:focus,
+.btn:active:focus,
+.btn.active:focus {
+    outline: none;
+    box-shadow: none;
 }
 
+
 /* To Top Button */
+
 #topBtn {
     display: none;
     position: fixed;
@@ -18,54 +22,48 @@
     padding: 1% 1.5%;
     border-radius: 5%;
     opacity: 0.3;
-  }
-  
-  #topBtn:hover {
+}
+
+#topBtn:hover {
     background-color: $main-color;
     opacity: 0.5;
     transition: .3s all;
-  }
+}
 
-  .client-briefs-btn{
-      margin-top: 4%;
-      margin-bottom: 0;
-  }
+.client-briefs-btn {
+    margin-top: 4%;
+    margin-bottom: 0;
+}
 
-
-  .btn{
+.btn {
     display: block;
 }
 
-.btn-holder{
-
+.btn-holder {
     padding: 4%;
-
-    @media (min-width: 1200px){
-
+    @media (min-width: 1200px) {
         padding: 0;
-
     }
-        
-    button{
-        margin: 0 auto;
+    button {
+        margin: 5% auto;
+        @media (min-width: 1200px) {
+            margin: 0 auto;
+        }
     }
-
 }
 
-.official-custom-btn{
+.official-custom-btn {
     background-color: #47b8e0;
     border-color: #47b8e0;
     color: $white;
-
-    &:hover{
+    &:hover {
         // background-color: darken( #47b8e0, 10%);
         background-color: $white;
         border-color: $main-color;
         color: $main-color;
     }
-
 }
 
-.chido-designs-welcome-section-btn{
+.chido-designs-welcome-section-btn {
     margin-right: 0;
 }

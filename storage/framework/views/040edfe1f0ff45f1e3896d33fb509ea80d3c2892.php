@@ -38,7 +38,7 @@
 
                     <div class="btn-holder text-center chido-designs-welcome-section-btn">
                         <a href="https://www.booklearnpass.co.uk/" target="_blank">
-                            <button type="button" class="btn btn-lg official-custom-btn mr-2">View Website</button>
+                            <button type="button" class="btn btn-lg official-custom-btn mg-top-2">View Website</button>
                         </a>
                     </div>
 

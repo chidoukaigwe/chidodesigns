@@ -40,10 +40,10 @@
 
             <div class="btn-holder text-center chido-designs-welcome-section-btn">
                 <a href="http://social-network.chido-designs.co.uk/" target="_blank">
-                    <button type="button" class="btn btn-lg official-custom-btn mr-2">View Live Demo</button>
+                    <button type="button" class="btn btn-lg official-custom-btn">View Live Demo</button>
                 </a>
                 <a href="https://github.com/chidoukaigwe/Nodejs-social-network" target="_blank">
-                    <button type="button" class="btn btn-lg btn-outline-secondary mr-2">View Source Code</button>
+                    <button type="button" class="btn btn-lg btn-outline-secondary">View Source Code</button>
                 </a>
             </div>
 

@@ -10957,7 +10957,13 @@ a.text-dark:focus {
 }
 
 .btn-holder button {
-  margin: 0 auto;
+  margin: 5% auto;
+}
+
+@media (min-width: 1200px) {
+  .btn-holder button {
+    margin: 0 auto;
+  }
 }
 
 .official-custom-btn {
@@ -11020,7 +11026,7 @@ img {
 }
 
 .mg-top-2 {
-  margin-top: 2%;
+  margin-top: 2% !important;
 }
 
 .mg-top-4 {
@@ -11056,6 +11062,12 @@ img {
 
 .custom-navbar-footer-menu li {
   margin-right: 2%;
+}
+
+@media (min-width: 968px) {
+  .custom-navbar-footer-menu {
+    margin: 0 20%;
+  }
 }
 
 .copyright {

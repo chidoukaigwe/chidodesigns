@@ -33,10 +33,11 @@
                                 <p class="mg-btm-2">The Hostfront project is a headless cms build, with the focus of separating the management of content from the user interface.</p>
 
                                 <p class="mg-btm-2">
-                                I built the backend in PHP Wordpress, developing a custom plugin that would interact with the Wordpress REST Api; creating custom API endpoints, that would enable the frontend application to make calls and receive data. The 'Advance Custom Fields' plugin is included within this build to help speed up the process of creating custom fields that interact with custom post types. The cms is built around global custom field modules, which creates flexibility for content creators to dynamically build out content. </p>
+                                    I built the backend in PHP within the Wordpress ecosystem, developing a custom plugin that would interact with the Wordpress RESTful features; creating custom API endpoints, that would enable the frontend application to make calls and receive data. The 'Advance Custom Fields' plugin is included within this build to help speed up the process of creating custom fields that interact with custom post types. The cms is built around global custom field modules, which creates flexibility for content creators to dynamically build out content.
+                                </p>
 
                                 <p class="mg-btm-2">
-                                The frontend application is built in Angular 9, and acts as a two fold app. The first job it has, is to render the content from the CMS and display it to the end user. The second job is to consume apis and render or process their data. The choice in using Angular, was to take full advantage of a framework that has a wealth of tools and libraries built in; essentially giving us the capability to build a full scale web application.
+                                The frontend application is built in Angular 9, and acts as a two fold app. The first job it has, is to render the content from the CMS and display it to the end user. The second job is to consume third party apis and render or process their data. The choice in using Angular, was to take full advantage of a framework that has a wealth of tools and libraries built in; essentially giving us the capability to build a full scale web application, that interacts with a Wordpress backend.
                                 </p>
 
 
@@ -46,7 +47,7 @@
 
                     <div class="btn-holder text-center chido-designs-welcome-section-btn">
                         <a href="https://hostfront.co.uk" target="_blank">
-                            <button type="button" class="btn btn-lg official-custom-btn mr-2">View Website</button>
+                            <button type="button" class="btn btn-lg official-custom-btn mg-top-2">View Website</button>
                         </a>
                     </div>
 
