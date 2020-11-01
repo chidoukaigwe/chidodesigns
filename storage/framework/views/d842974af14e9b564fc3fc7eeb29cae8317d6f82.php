@@ -19,18 +19,22 @@
                 </p>
 
                 <p>
+                    I can develop and operate across all three major operating systems, MacOS, Windows and Linux, utilising all terminal operations within each OS.
+                </p>
+
+                <p>
                     I have commercial experience as a linux systems administrator and cloud computing maintenance (<a href="https://aws.amazon.com/">AWS</a> & <a href="https://www.vultr.com/">Vultr</a> ), performing the following tasks and more:
                         <ul>
                             <li>Domain Hosting</li>
                             <li>Domain Set Up & Transfers</li>
                             <li>Securing & Optimizing Servers</li>
-                            <li>Setting Up & Configuring Unmanaged VPS's</li>
+                            <li>Setting Up, Configuring & Hardening Unmanaged VPS's</li>
                             <li>Website Maintenance</li>
-                            <li>Creating CI/CD Pipelines</li>
+                            <li>Creating CI/CD Pipelines with Github, DeployHQ, and Heroku/Vultr Servers </li>
                         </ul>
                 </p>
 
-                <p class="text-center">Below you can find a full overview of my tech stack and the development tools I use</p>
+                <p class="text-center mg-top-4">Below you can find a full overview of my tech stack and the development tools I use</p>
 
             </div> <!-- End Of Jumbotron -->
 
