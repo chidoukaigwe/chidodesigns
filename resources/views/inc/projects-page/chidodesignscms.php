@@ -22,7 +22,7 @@
                 <li>Develop my Laravel TDD workflow.</li>
             </ul>
 
-            <img src="/images/case-studies/content-management-system/chidodesignscmscreatearticle.png" alt="Chido Designs Content Management System" class="mg-btm-4">
+            <img src="images/case-studies/content-management-system/chidodesignscmscreatearticle.png" alt="Chido Designs Content Management System" class="mg-btm-4">
 
             <h4 class="mt-1 blue-text">App Overview</h4>
 
@@ -33,7 +33,7 @@
                 <br><br>
             </p>
 
-            <img src="/images/case-studies/content-management-system/chidodesignscmsarticleview.png" alt="Chido Designs Content Mangagement System" class="mg-btm-4">
+            <img src="images/case-studies/content-management-system/chidodesignscmsarticleview.png" alt="Chido Designs Content Mangagement System" class="mg-btm-4">
 
             <div class="btn-holder text-center chido-designs-welcome-section-btn">
                 <a href="https://cms.chidodesigns.co.uk" target="_blank">
