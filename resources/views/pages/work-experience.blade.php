@@ -6,8 +6,6 @@
 
             @include('inc.work-experience-page.intro')
 
-            @include('inc.work-experience-page.experience-extra-digtal')
-
             @include('inc.work-experience-page.experience-bpl')
 
             @include('inc.work-experience-page.experience-one')
