@@ -34,7 +34,7 @@
 
                     <div class="btn-holder text-center chido-designs-welcome-section-btn">
                         <a href="https://www.instagram.com/locsbyjo/?hl=en" target="_blank">
-                            <button type="button" class="btn btn-lg official-custom-btn mr-2">View Instagram</button>
+                            <button type="button" class="btn btn-lg official-custom-btn mg-top-2">View Instagram</button>
                         </a>
                     </div>
 

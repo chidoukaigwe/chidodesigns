@@ -60,10 +60,12 @@
 
                 <p>
                     Gulp enables me to seamlessly run automated tasks in the background; compressing images, compiling code, automatically reloading my browser upon updates etc...
-                </p>
+                    <br>
+                    Gulp becomes an important tool when it comes to local app development.
+                 </p>
 
                 <p>
-                   I use Composer and NPM as library package managers, that give me access to code libraries and packages which I can implement within the codebase I work in.
+                   I use Composer and NPM as library package managers, that give me access to code libraries and packages I can utilise within my own projects.
                 </p>
 
                 <p>

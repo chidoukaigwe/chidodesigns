@@ -67,7 +67,7 @@
                 </p>
 
                 <p>
-                    Full Stack Javascript: Running Node.js(Express.js framework) on the server side, using either Angular or Vue.js *project dependent* on the frontend. For database management and storing data, I use MongoDB for handling and processing collections of data.
+                    Full Stack Javascript: Running Node.js(Express.js framework) on the server side, using either Angular or Vue.js *project dependent* on the frontend. For database management and storing data, I use MongoDB or MYSQL for handling and processing collections/tables of data.
                 </p>
 
                 <p>
