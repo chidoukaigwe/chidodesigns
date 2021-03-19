@@ -7,7 +7,7 @@
             <h1 class="mg-btm-4 text-center">Chido Designs: Address Book App</h1>
 
             <strong><small>Laravel 7 Api / Vue.js SPA / Tailwind CSS</small></strong>
-            <h4 class="mt-1"> <a href="https://contacts.chido-designs.co.uk/register" target="_blank">Chido Designs: Address Book App</a></h4>
+            <h4 class="mt-1"> <a href="https://contacts.chidodesigns.co.uk/register" target="_blank">Chido Designs: Address Book App</a></h4>
 
             <p class="mg-btm-1"> A single page application, built with a Laravel api backend and a vue.js frontend. The app enables authenticated users to create contacts with extra details and save them to their address book.</p>
 
@@ -22,7 +22,7 @@
                 <li>Develop my Laravel TDD workflow.</li>
             </ul>
 
-            <img src="images/case-studies/contactsapi/chidodesignscontactsapi.png" alt="Chido Designs: Address Book App" class="mg-btm-4">
+            <img src="/images/case-studies/contactsapi/chidodesignscontactsapi.png" alt="Chido Designs: Address Book App" class="mg-btm-4">
 
             <h4 class="mt-1 blue-text">App Overview</h4>
 
@@ -33,10 +33,10 @@
                 <br><br>
             </p>
 
-            <img src="images/case-studies/contactsapi/chidodesignscontactsapimain.png" alt="Chido Designs: Address Book App" class="mg-btm-4">
+            <img src="/images/case-studies/contactsapi/chidodesignscontactsapimain.png" alt="Chido Designs: Address Book App" class="mg-btm-4">
 
             <div class="btn-holder text-center chido-designs-welcome-section-btn">
-                <a href="https://contacts.chido-designs.co.uk/login" target="_blank">
+                <a href="https://contacts.chidodesigns.co.uk/register" target="_blank">
                     <button type="button" class="btn btn-lg official-custom-btn">View Live Demo</button>
                 </a>
                 <a href="https://github.com/chidoukaigwe/Laravel-Api-Vue-JS-SPA-Contact-Storage-App" target="_blank">

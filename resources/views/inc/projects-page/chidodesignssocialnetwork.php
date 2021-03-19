@@ -7,7 +7,7 @@
             <h1 class="mg-btm-4 text-center">Chido Designs Social Network</h1>
 
             <strong><small>Node.js / ES6 - EJS</small></strong>
-            <h4 class="mt-1"> <a href="http://social-network.chido-designs.co.uk/" target="_blank">Chido Designs Social Network</a></h4>
+            <h4 class="mt-1"> <a href="https://chidodesignscomplexnodeapp.herokuapp.com/" target="_blank">Chido Designs Social Network</a></h4>
 
             <p class="mg-btm-1"> A Social Network, whereby users can create and share posts, follow users and talk to other users in real time. </p>
 
@@ -21,8 +21,8 @@
                 <li>Build a full stack javascript application.</li>
                 <li>Develop and deploy a Nodejs application with Heroku.</li>
             </ul>
-
-            <img src="images/case-studies/social-network/chidodesignssocialnetworksignup.png" alt="Chido Designs Social Network App" class="mg-btm-4">
+            
+            <img src="/images/case-studies/social-network/chidodesignssocialnetworksignup.png" alt="Chido Designs Social Network App" class="mg-btm-4">
 
             <h4 class="mt-1 blue-text">App Overview</h4>
 
@@ -36,10 +36,10 @@
                 The application uses MongoDB as its database and we focus more on data collections as a way of handling and processing data.
             </p>
 
-            <img src="images/case-studies/social-network/chidodesignssocialnetworkfeedpage.png" alt="Chido Designs Social Network App" alt="Chido Designs Social Network" class="mg-btm-4">
+            <img src="/images/case-studies/social-network/chidodesignssocialnetworkfeedpage.png" alt="Chido Designs Social Network App" alt="Chido Designs Social Network" class="mg-btm-4">
 
             <div class="btn-holder text-center chido-designs-welcome-section-btn">
-                <a href="http://social-network.chido-designs.co.uk/" target="_blank">
+                <a href="https://chidodesignscomplexnodeapp.herokuapp.com//" target="_blank">
                     <button type="button" class="btn btn-lg official-custom-btn">View Live Demo</button>
                 </a>
                 <a href="https://github.com/chidoukaigwe/Nodejs-social-network" target="_blank">

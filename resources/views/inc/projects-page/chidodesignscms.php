@@ -7,7 +7,7 @@
             <h1 class="mg-btm-4 text-center">Chido Designs Content Management System</h1>
 
             <strong><small>Laravel 7 Api / Vue.js SPA / Bootstrap 4</small></strong>
-            <h4 class="mt-1"> <a href="https://cms.chido-designs.co.uk/" target="_blank">Chido Designs CMS</a></h4>
+            <h4 class="mt-1"> <a href="https://cms.chidodesigns.co.ukch" target="_blank">Chido Designs CMS</a></h4>
 
             <p class="mg-btm-1"> A single page application, built with a laravel api backend and a vue.js frontend. The app enables authenticated users to create articles and publish them.</p>
 
@@ -22,7 +22,7 @@
                 <li>Develop my Laravel TDD workflow.</li>
             </ul>
 
-            <img src="images/case-studies/content-management-system/chidodesignscmscreatearticle.png" alt="Chido Designs Content Management System" class="mg-btm-4">
+            <img src="/images/case-studies/content-management-system/chidodesignscmscreatearticle.png" alt="Chido Designs Content Management System" class="mg-btm-4">
 
             <h4 class="mt-1 blue-text">App Overview</h4>
 
@@ -33,10 +33,10 @@
                 <br><br>
             </p>
 
-            <img src="images/case-studies/content-management-system/chidodesignscmsarticleview.png" alt="Chido Designs Content Mangagement System" class="mg-btm-4">
+            <img src="/images/case-studies/content-management-system/chidodesignscmsarticleview.png" alt="Chido Designs Content Mangagement System" class="mg-btm-4">
 
             <div class="btn-holder text-center chido-designs-welcome-section-btn">
-                <a href="https://cms.chido-designs.co.uk/" target="_blank">
+                <a href="https://cms.chidodesigns.co.uk" target="_blank">
                     <button type="button" class="btn btn-lg official-custom-btn">View Live Demo</button>
                 </a>
                 <a href="https://github.com/chidoukaigwe/chidodesigsappCMS" target="_blank">
